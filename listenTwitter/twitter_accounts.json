@@ -1,0 +1,26 @@
+{
+    "elonmusk": {
+        "name": "Elon Musk",
+        "username": "elonmusk",
+        "last_tweet_id": "1875583572092104795",
+        "enabled": true
+    },
+    "cz_binance": {
+        "name": "CZ Binance",
+        "username": "cz_binance",
+        "last_tweet_id": "1875727551563493478",
+        "enabled": true
+    },
+    "VitalikButerin": {
+        "name": "Vitalik Buterin",
+        "username": "VitalikButerin",
+        "last_tweet_id": "1874233066941800855",
+        "enabled": true
+    },
+    "JLiang93823": {
+        "name": "+btc",
+        "username": "JLiang93823",
+        "last_tweet_id": "1875532958649741473",
+        "enabled": true
+    }
+}

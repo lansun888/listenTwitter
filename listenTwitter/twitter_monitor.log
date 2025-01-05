@@ -1,0 +1,137 @@
+2025-01-05 14:14:43,349 - ERROR - 加载配置文件失败: Twitter 登录凭证不完整
+2025-01-05 14:14:43,350 - ERROR - 加载配置失败: Twitter 登录凭证不完整
+2025-01-05 14:15:04,834 - INFO - 已加载 4 个账号
+2025-01-05 14:15:06,687 - INFO - 正在登录Twitter...
+2025-01-05 14:15:24,678 - INFO - 开始关注配置的账号...
+2025-01-05 14:15:38,827 - ERROR - 关注用户 @elonmusk 时出错: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AEB97012+3522402]
+	(No symbol) [0x00007FF6AE7B8352]
+	(No symbol) [0x00007FF6AE665ABB]
+	(No symbol) [0x00007FF6AE6ABF0E]
+	(No symbol) [0x00007FF6AE6AC08C]
+	(No symbol) [0x00007FF6AE6EE437]
+	(No symbol) [0x00007FF6AE6CF09F]
+	(No symbol) [0x00007FF6AE6EBDA3]
+	(No symbol) [0x00007FF6AE6CEE03]
+	(No symbol) [0x00007FF6AE69F4D4]
+	(No symbol) [0x00007FF6AE6A05F1]
+	GetHandleVerifier [0x00007FF6AEBC9B9D+3730157]
+	GetHandleVerifier [0x00007FF6AEC1F02D+4079485]
+	GetHandleVerifier [0x00007FF6AEC175D3+4048163]
+	GetHandleVerifier [0x00007FF6AE8EA649+718233]
+	(No symbol) [0x00007FF6AE7C4A3F]
+	(No symbol) [0x00007FF6AE7BFA94]
+	(No symbol) [0x00007FF6AE7BFBC2]
+	(No symbol) [0x00007FF6AE7AF2E4]
+	BaseThreadInitThunk [0x00007FFC436C7C24+20]
+	RtlUserThreadStart [0x00007FFC43C8D721+33]
+
+2025-01-05 14:15:52,477 - ERROR - 关注用户 @cz_binance 时出错: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AEB97012+3522402]
+	(No symbol) [0x00007FF6AE7B8352]
+	(No symbol) [0x00007FF6AE665ABB]
+	(No symbol) [0x00007FF6AE6ABF0E]
+	(No symbol) [0x00007FF6AE6AC08C]
+	(No symbol) [0x00007FF6AE6EE437]
+	(No symbol) [0x00007FF6AE6CF09F]
+	(No symbol) [0x00007FF6AE6EBDA3]
+	(No symbol) [0x00007FF6AE6CEE03]
+	(No symbol) [0x00007FF6AE69F4D4]
+	(No symbol) [0x00007FF6AE6A05F1]
+	GetHandleVerifier [0x00007FF6AEBC9B9D+3730157]
+	GetHandleVerifier [0x00007FF6AEC1F02D+4079485]
+	GetHandleVerifier [0x00007FF6AEC175D3+4048163]
+	GetHandleVerifier [0x00007FF6AE8EA649+718233]
+	(No symbol) [0x00007FF6AE7C4A3F]
+	(No symbol) [0x00007FF6AE7BFA94]
+	(No symbol) [0x00007FF6AE7BFBC2]
+	(No symbol) [0x00007FF6AE7AF2E4]
+	BaseThreadInitThunk [0x00007FFC436C7C24+20]
+	RtlUserThreadStart [0x00007FFC43C8D721+33]
+
+2025-01-05 14:16:06,204 - ERROR - 关注用户 @VitalikButerin 时出错: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AEB97012+3522402]
+	(No symbol) [0x00007FF6AE7B8352]
+	(No symbol) [0x00007FF6AE665ABB]
+	(No symbol) [0x00007FF6AE6ABF0E]
+	(No symbol) [0x00007FF6AE6AC08C]
+	(No symbol) [0x00007FF6AE6EE437]
+	(No symbol) [0x00007FF6AE6CF09F]
+	(No symbol) [0x00007FF6AE6EBDA3]
+	(No symbol) [0x00007FF6AE6CEE03]
+	(No symbol) [0x00007FF6AE69F4D4]
+	(No symbol) [0x00007FF6AE6A05F1]
+	GetHandleVerifier [0x00007FF6AEBC9B9D+3730157]
+	GetHandleVerifier [0x00007FF6AEC1F02D+4079485]
+	GetHandleVerifier [0x00007FF6AEC175D3+4048163]
+	GetHandleVerifier [0x00007FF6AE8EA649+718233]
+	(No symbol) [0x00007FF6AE7C4A3F]
+	(No symbol) [0x00007FF6AE7BFA94]
+	(No symbol) [0x00007FF6AE7BFBC2]
+	(No symbol) [0x00007FF6AE7AF2E4]
+	BaseThreadInitThunk [0x00007FFC436C7C24+20]
+	RtlUserThreadStart [0x00007FFC43C8D721+33]
+
+2025-01-05 14:16:19,883 - ERROR - 关注用户 @JLiang93823 时出错: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AEB97012+3522402]
+	(No symbol) [0x00007FF6AE7B8352]
+	(No symbol) [0x00007FF6AE665ABB]
+	(No symbol) [0x00007FF6AE6ABF0E]
+	(No symbol) [0x00007FF6AE6AC08C]
+	(No symbol) [0x00007FF6AE6EE437]
+	(No symbol) [0x00007FF6AE6CF09F]
+	(No symbol) [0x00007FF6AE6EBDA3]
+	(No symbol) [0x00007FF6AE6CEE03]
+	(No symbol) [0x00007FF6AE69F4D4]
+	(No symbol) [0x00007FF6AE6A05F1]
+	GetHandleVerifier [0x00007FF6AEBC9B9D+3730157]
+	GetHandleVerifier [0x00007FF6AEC1F02D+4079485]
+	GetHandleVerifier [0x00007FF6AEC175D3+4048163]
+	GetHandleVerifier [0x00007FF6AE8EA649+718233]
+	(No symbol) [0x00007FF6AE7C4A3F]
+	(No symbol) [0x00007FF6AE7BFA94]
+	(No symbol) [0x00007FF6AE7BFBC2]
+	(No symbol) [0x00007FF6AE7AF2E4]
+	BaseThreadInitThunk [0x00007FFC436C7C24+20]
+	RtlUserThreadStart [0x00007FFC43C8D721+33]
+
+2025-01-05 14:16:19,885 - INFO - 
+正在检查 Elon Musk (@elonmusk) 的推文...
+2025-01-05 14:16:32,749 - INFO - 
+正在检查 CZ Binance (@cz_binance) 的推文...
+2025-01-05 14:16:43,636 - INFO - 
+正在检查 Vitalik Buterin (@VitalikButerin) 的推文...
+2025-01-05 14:16:52,975 - INFO - 收到停止信号，正在停止监控...
+2025-01-05 14:16:56,163 - INFO - 已加载 4 个账号
+2025-01-05 14:16:58,016 - INFO - 正在登录Twitter...
+2025-01-05 14:17:15,977 - INFO - 开始关注配置的账号...
+2025-01-05 14:17:52,642 - WARNING - 未找到 @elonmusk 的关注按钮
+2025-01-05 14:18:29,592 - WARNING - 未找到 @cz_binance 的关注按钮
+2025-01-05 14:19:06,059 - WARNING - 未找到 @VitalikButerin 的关注按钮
+2025-01-05 14:19:35,752 - WARNING - 未找到 @JLiang93823 的关注按钮
+2025-01-05 14:19:35,752 - INFO - 
+正在检查 Elon Musk (@elonmusk) 的推文...
+2025-01-05 14:19:41,784 - INFO - 收到停止信号，正在停止监控...
+2025-01-05 14:19:46,393 - INFO - 已加载 4 个账号
+2025-01-05 14:19:48,252 - INFO - 正在登录Twitter...
+2025-01-05 14:20:06,408 - INFO - 开始关注配置的账号...
+2025-01-05 14:20:38,006 - INFO - 已关注用户 @elonmusk
+2025-01-05 14:21:13,083 - INFO - 已关注用户 @cz_binance
+2025-01-05 14:21:48,519 - INFO - 已关注用户 @VitalikButerin
+2025-01-05 14:22:27,864 - INFO - 已关注用户 @JLiang93823
+2025-01-05 14:22:33,866 - INFO - 
+正在检查 Elon Musk (@elonmusk) 的推文...
+2025-01-05 14:22:45,738 - INFO - 
+正在检查 CZ Binance (@cz_binance) 的推文...
+2025-01-05 14:22:57,602 - INFO - 
+正在检查 Vitalik Buterin (@VitalikButerin) 的推文...
+2025-01-05 14:23:09,451 - INFO - 
+正在检查 +btc (@JLiang93823) 的推文...
+2025-01-05 14:23:23,363 - INFO - 下次检查将在 52 秒后
+2025-01-05 14:24:15,363 - INFO - 开始关注配置的账号...
+2025-01-05 14:24:57,122 - WARNING - 未找到 @elonmusk 的关注按钮
+2025-01-05 14:24:59,136 - INFO - 收到停止信号，正在停止监控...
